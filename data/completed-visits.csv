@@ -1,6 +1,2 @@
 outlet_code,outlet_name,bdm_code,bdm_name,started_at,completed_at,status,blocker,action_agreed,payment_collected,order_value,follow_up_required,follow_up_date,notes,visit_id
-OA0595,Sangeetha Cellpoint,BDM009,Gowtham S,2026-08-14 15:38:08,2026-08-14 15:38:38,Completed,Low customer demand,Test,2000.0,2000.0,True,2026-08-14,test,NEW-60867F4D
-OA0595,Sangeetha Cellpoint,BDM009,Gowtham S,2026-08-14 15:39:49,2026-08-14 15:44:08,Completed,Store / operational issue,test,4000.0,3000.0,True,2026-08-14,test,NEW-4AC43753
-OA0363,Saravana Mobiles,BDM004,Ashok Kumar,2026-08-14 15:46:15,2026-08-14 15:46:30,Completed,No major blocker,testtss,3000.0,4000.0,False,,test,NEW-92A8051E
-OA0413,Big C Digital,BDM011,Ilango M,2026-08-14 15:50:50,2026-08-14 15:51:06,Completed,No major blocker,test,3000.0,3000.0,False,,test,NEW-F5DA18CA
-OA0736,Muthu Infotech,BDM001,Sundar R,2026-08-14 16:12:53,2026-08-14 16:13:10,Completed,Product mix issue,test,3000.0,4000.0,False,,test,NEW-B1087507
+OA0718,Vinayaga Infotech,BDM009,Gowtham S,2026-08-15 10:35:55,2026-08-15 10:37:21,Completed,No major blocker,Next visit in 3 weeks,8000.0,5000.0,True,2026-08-15,Everything as expected,NEW-7194F5E1

@@ -162,7 +162,6 @@ With more time, I would:
 - Python
 - Pandas
 - Streamlit
-- CSV data storage
 
 ---
 
