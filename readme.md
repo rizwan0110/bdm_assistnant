@@ -63,7 +63,7 @@ Then open the local Streamlit URL shown in the terminal.
 
 ### Live Demo
 
-> Streamlit link will be added here.
+> [Link](https://aidbdm.streamlit.app/)
 
 ---
 
